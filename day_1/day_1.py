@@ -20,3 +20,4 @@ for lines in data:
           break
 
 print(counter)
+print(" ")
